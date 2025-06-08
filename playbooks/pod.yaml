@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: simple-app
-        image: ravikumarmanchi/xyztechnologies:latest
+        image: wargod/xyztechnologies:latest
         ports:
         - containerPort: 8080   # Tomcat inside container
 ---
